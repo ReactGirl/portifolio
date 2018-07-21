@@ -9,6 +9,11 @@ body {
   background: black;
 }
 
+.about-me {
+  margin: 10px;
+  padding-bottom: 10px;
+}
+
 .wrapper {
   border: 1px solid black;
   display: flex;
